@@ -9,6 +9,11 @@
   place: "Dining room"
   service: true
 -
+  id: 503
+  title: "Group PHoto"
+  place: "Zain HQ"
+  service: true
+-
   id: 301
   title: "GDG DevFest Keynote"
   description: "We'll talk about least technology in Google, and whats happened form 2013 to present"
@@ -29,7 +34,7 @@
   title: "Material design: Visual style and imagery"
   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
   subtype: workshop
-  speakers: [3, 6]
+  speakers: [5]
   language: en
   complexity: "Intermediate"
 -
@@ -47,7 +52,7 @@
   subtype: workshop
   speakers: [10]
   language: en & ar
-  complexity: "Expert"
+  complexity: "Intermediate"
 -
   id: 005
   title: "Google Play Game"
@@ -55,7 +60,7 @@
   subtype: keynote
   speakers: [11]
   language: en & ar
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 006
   title: "Android Studio & Android L preview"
@@ -63,7 +68,7 @@
   subtype: keynote
   speakers: [7]
   language: en
-  complexity: "Expert" 
+  complexity: "Intermediate" 
 -
   id: 007
   title: "Making Money on Google Play"

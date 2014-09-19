@@ -8,11 +8,11 @@
   thumbnailUrl: MhmdAljobairi.jpg
   rockstar: true
   ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: "https://google.com/+MohammadAljobairi"}
+    - {name: "twitter", link: "https://twitter.com/MhmdAljobairi"}
+    - {name: "github", link: "https://github.com/MhmdAljobairi"}
 - 
   id: 4
   name: "Rami"
