@@ -99,4 +99,17 @@
   rockstar: false
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "linkedin", link: "jo.linkedin.com/in/sultangfx/"}
+    - {name: "twitter", link: "https://twitter.com/sultan0254 "}
+- 
+  id: 11
+  name: "Husaam"
+  surname: "Hammo"
+  company: "Tamatem"
+  title: "CEO"
+  bio: "CEO and founder of Tamatem Inc. a [500] Startups backed mobile gaming publisher entirely focused on serving the Arab world with content tailored for the language and culture of the middle east. Co-founded and was Chief Products Officer at Wizards Productions, one of the first gaming studios in the region with 15 games in its portfolio."
+  thumbnailUrl: husaam.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/hammo"}
