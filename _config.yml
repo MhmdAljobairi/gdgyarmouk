@@ -106,7 +106,7 @@ venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "twitter-feed1.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
