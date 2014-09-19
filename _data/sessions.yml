@@ -14,6 +14,11 @@
   place: "Zain HQ"
   service: true
 -
+  id: 505
+  title: "Registration"
+  place: "Zain HQ"
+  service: true
+-
   id: 301
   title: "GDG DevFest Keynote"
   description: "We'll talk about least technology in Google, and whats happened form 2013 to present"
