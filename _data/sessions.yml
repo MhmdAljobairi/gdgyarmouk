@@ -9,8 +9,8 @@
   place: "Dining room"
   service: true
 -
-  id: 503
-  title: "Group PHoto"
+  id: 504
+  title: "Group photo"
   place: "Zain HQ"
   service: true
 -
@@ -84,4 +84,13 @@
   subtype: presentation
   speakers: [7]
   language: en & ar
+  complexity: "Intermediate"
+-
+  id: 009
+  title: "Final talk"
+  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  subtype: presentation
+  speakers: [3]
+  language: en & ar
   complexity: "Intermediate" 
+
