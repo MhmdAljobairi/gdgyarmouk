@@ -106,7 +106,7 @@ venueTitle: "Zain HQ Auditorium"
 venueFeatures: ["1 screen and 120 seat", "Smart projector and audio system", "to close to workshop hall"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpeg"
+tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "gdgyarmouk"
 twitterFeed: "https://twitter.com/hashtag/gdgyarmouk?src=tren"
@@ -174,8 +174,6 @@ footerBlocks:
   links:
    - {link: "http://gdg.org.ua", text: "GDG Yarmouk"}
    - {link: "https://developers.google.com", text: "Google Developers"}
-   - {link: "http://www.jo.zain.com/english/media/pr/Pages/Zain-Launches-Zain-Innovation-Campus-(ZINC).aspx", text: "ZINC"}
-
  -
   title: "Contacts"
   links:
