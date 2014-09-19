@@ -29,7 +29,7 @@
 -
   id: 001
   title: "Zain for developers"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  description: "Zain Jordan announced Zain Innovation Campus (ZINC), a platform that includes all the initiatives and programs of Corporate Entrepreneurship Responsibility. The campus is expected to be inaugurated in the fourth quarter of 2014 and to be located in King Hussein Business Park.The announcement of Zain Innovation Campus was during a ceremony held to conclude the Entrepreneurship week that was organized by Zain for seven days that included several workshops, events and initiatives that attracted startups and entrepreneurs whom seek to reflect their innovative ideas and projects into the reality domain.  "
   subtype: presentation
   speakers: [4]
   language: en & ar
@@ -69,7 +69,7 @@
 -
   id: 006
   title: "Android Studio & Android L preview"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "Learn from Android experts about how to setup your Android development environment using Android Studio and Gradle. Create your first project and run your Android app on an emulator or device"
   subtype: keynote
   speakers: [3]
   language: en

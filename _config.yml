@@ -42,18 +42,18 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "j.mp/gdg-call-for-papers", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "j.mp/gdg-call-for-papers", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2014"
 eventDate: "September 27, 2014"
-typeoutTextValues: '"", "Season", "Yarmouk", "Jordan", "With Zain"'
+typeoutTextValues: '"", " Season", " Yarmouk", " Jordan", " With Zain"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "j.mp/gdg-call-for-papers", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "find tickets"}
 
 # About Block
@@ -66,9 +66,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "2000", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "150", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "50", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
@@ -76,7 +76,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 5
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
@@ -86,9 +86,9 @@ eventLocationName: "Zain Jordan HQ"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "Jordan, Amman , 8th Circle"
 eventAddressLocality: "Zain"
-eventAddressLocalityRegion: "Lvivska"
+eventAddressLocalityRegion: "Amman"
 eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
+eventAddressCountry: "Jordan"
 eventStartTime: "2014-09-27T09:00"
 eventDoorTime: "08:00"
 eventEndTime: "2014-29-27T19:00"
@@ -102,14 +102,14 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Zain HQ Auditorium"
+venueFeatures: ["1 screen and 120 seat", "Smart projector and audio system", "to close to workshop hall"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterHashTag: "gdgyarmouk"
+twitterFeed: "https://twitter.com/hashtag/gdgyarmouk?src=tren"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -119,7 +119,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "#"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
@@ -174,6 +174,8 @@ footerBlocks:
   links:
    - {link: "http://gdg.org.ua", text: "GDG Yarmouk"}
    - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.jo.zain.com/english/media/pr/Pages/Zain-Launches-Zain-Innovation-Campus-(ZINC).aspx", text: "ZINC"}
+
  -
   title: "Contacts"
   links:
