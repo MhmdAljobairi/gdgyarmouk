@@ -6,19 +6,19 @@
     - {title: "Track 2", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "10:00",
+    	startTime: "09:00",
     	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+    	sessionIds: [301]
     }
     - {
         startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+        endTime: "12:00",
+        sessionIds: [001]
     }
     - {
     	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+    	endTime: "12:45",
+    	sessionIds: [503]
     }
 - 
   date: "2014-10-25"
