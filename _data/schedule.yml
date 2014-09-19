@@ -5,11 +5,6 @@
     - {title: "Track 1", color: "#90be4e"}
     - {title: "Track 2", color: "#03a9f4"}
   timeslots:
-   - {
-        startTime: "08:00",
-        endTime: "08:45",
-        sessionIds: [505]
-    }
     - {
     	startTime: "09:00",
     	endTime: "10:45",
@@ -59,4 +54,9 @@
         startTime: "17:45",
         endTime: "18:00",
         sessionIds: [504]
+    }
+    - {
+        startTime: "08:00",
+        endTime: "08:45",
+        sessionIds: [505]
     }
