@@ -2,5 +2,5 @@
   group: "General sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://mhmdaljobairi.github.io/gdgyarmouk", imageUrl: "gdg-yu.jpg" width: "50px"}
+    - {name: "GDG Yarmouk", description: "GDG Yarmouk - Open and volunteer geek community", link: "http://mhmdaljobairi.github.io/gdgyarmouk", imageUrl: "gdg-yu.jpg"}
     - {name: "Zain Jordan", description: "Zain Jordan", link: "http://www.jo.zain.com/english/media/pr/Pages/Zain-Launches-Zain-Innovation-Campus-(ZINC).aspx", imageUrl: "Zain_logo.png"}
