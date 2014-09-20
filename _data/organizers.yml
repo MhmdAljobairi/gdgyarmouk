@@ -1,8 +1,4 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Yarmouk", description: "GDG Yarmouk - Open and volunteer geek community", link: "http://mhmdaljobairi.github.io/gdgyarmouk/", imageUrl: "gdg-yu.jpg"}
-- 
-  group: "Co-organizers"
-  elements: 
-    - {name: "ZINC", description: "Zain Innovation Campus (ZINC)", link: "http://www.jo.zain.com/english/media/pr/Pages/Zain-Launches-Zain-Innovation-Campus-(ZINC).aspx", imageUrl: "zinc.jpg"}
+    - {name: "GDG Yarmouk", description: "GDG Yarmouk - Open and volunteer geek community", link: "http://mhmdaljobairi.github.io/gdgyarmouk", imageUrl: "gdg-yu.jpg"}
