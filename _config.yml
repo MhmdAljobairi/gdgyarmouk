@@ -186,7 +186,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfesYarmouk"
+discusShortName: "DevfestYarmouk"
 
 # Speakers List Block
 showSessions: true
