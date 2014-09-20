@@ -11,8 +11,8 @@ description: "GDG DevFest is a set of events all around the world"
 baseurl: "/gdgyarmouk"
 url: "http://gdg-x.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: "UA-54997244-1"
+googleAnalyticsSiteUrl: "auto"
 
 # Organizer Info
 organizerName: "GDG Yarmouk"
@@ -171,12 +171,12 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG Yarmouk"}
+   - {link: "http://mhmdaljobairi.github.io/gdgyarmouk/", text: "GDG Yarmouk"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:gdg@yarmouk.com", text: "gdg@yarmouk.com"}
+   - {link: "mailto:gdg@gdgyarmouk.com", text: "gdg@gdgyarmouk.com"}
  -
   title: "FAQ"
   links:
