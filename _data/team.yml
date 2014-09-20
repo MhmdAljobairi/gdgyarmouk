@@ -80,3 +80,14 @@
     - {abbr: "GSA", title: "Google Student Ambassador"}
   social: 
     - {name: "google-plus", link: "https://google.com/+ThaerAlBataineh"}
+-
+  id: 7
+  name: "Khaled"
+  surname: "Daoudieh"
+  title: "Organizer"
+  thumbnailUrl: Daoudieh.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GSA", title: "Google Student Ambassador"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/112125998802922431447/posts"}
