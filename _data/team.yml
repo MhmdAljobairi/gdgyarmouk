@@ -25,7 +25,7 @@
     - {name: "linkedIn", link: "jo.linkedin.com/in/aseelbadran"}
 - 
   id: 2
-  name: "Osama"
+  name: "Osamah"
   surname: "Waqfi"
   title: "Organizer"
   thumbnailUrl: OsamaAlwaqfi.jpg
@@ -33,9 +33,9 @@
   ribbon: 
     - {abbr: "GSA", title: "Google Student Ambassador"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+    - {name: "google-plus", link: "https://google.com/+OsamahWaqfi"}
     - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"} 
+    - {name: "site", link: "http://andrusiv.com/"}
 -
   id: 3
   name: "Osama"
@@ -46,6 +46,37 @@
   ribbon: 
     - {abbr: "GSA", title: "Google Student Ambassador"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/117286711879040829951/posts"}
+-
+  id: 4
+  name: "Rana"
+  surname: "Al Akhrass"
+  title: "Organizer"
+  thumbnailUrl: rana.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GSA", title: "Google Student Ambassador"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+RanaAlAkhras"}
+-
+  id: 5
+  name: "Maram"
+  surname: "Tuffaha"
+  title: "Organizer"
+  thumbnailUrl: maram.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GSA", title: "Google Student Ambassador"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/100496530883034965958/posts"}
+-
+  id: 6
+  name: "Thaer"
+  surname: "Bataineh"
+  title: "Organizer"
+  thumbnailUrl: thaer.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GSA", title: "Google Student Ambassador"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ThaerAlBataineh"}
