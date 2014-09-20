@@ -37,7 +37,6 @@ c4sponsorsUrl: "http://mhmdaljobairi.github.io/gdgyarmouk/"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
