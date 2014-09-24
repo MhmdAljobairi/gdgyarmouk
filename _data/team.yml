@@ -12,6 +12,18 @@
     - {name: "twitter", link: "https://twitter.com/MhmdAljobairi"}
     - {name: "github", link: "https://github.com/MhmdAljobairi"}
 - 
+  id: 8
+  name: "Abd Alrahman"
+  surname: "Al Qudah"
+  title: "GDG Organizer"
+  thumbnailUrl: qudah.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+AbdAlrahmanAlQudahJO"}
+    - {name: "linkedIn", link: "https://www.linkedin.com/pub/abd-alrahman-al-qudah/57/343/613"}
+- 
   id: 1
   name: "Aseel"
   surname: "Badran"
@@ -22,7 +34,7 @@
     - {abbr: "Ex-GSA", title: "Google Student Ambassador"}
   social: 
     - {name: "google-plus", link: "http://goo.gl/wQHW8"}
-    - {name: "linkedIn", link: "jo.linkedin.com/in/aseelbadran"}
+    - {name: "linkedIn", link: "https://jo.linkedin.com/in/aseelbadran"}
 - 
   id: 2
   name: "Osamah"
