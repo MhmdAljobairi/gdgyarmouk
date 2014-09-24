@@ -24,7 +24,7 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/alkarmi"}
-    - {name: "site", link: "ramialkarmi.com"}
+    - {name: "websites", link: "ramialkarmi.com"}
 - 
   id: 5
   name: "Ahmad"
@@ -36,7 +36,7 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/huwwary"}
-    - {name: "site", link: "http://www.huwwary.ws"}
+    - {name: "websites", link: "http://www.huwwary.ws"}
 - 
   id: 7
   name: "Khaled"
@@ -47,7 +47,7 @@
   thumbnailUrl: KhaledSultan.jpg
   rockstar: true
   social: 
-    - {name: "site", link: "https://www.facebook.com/Genie9Backup"}
+    - {name: "websites", link: "https://www.facebook.com/Genie9Backup"}
 - 
   id: 8
   name: "Raed"
@@ -61,7 +61,7 @@
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
     - {name: "google-plus", link: "https://google.com/+RaedMarji"}
-    - {name: "site", link: "http://www.jogeeks.com/"}
+    - {name: "websites", link: "http://www.jogeeks.com/"}
 - 
   id: 9
   name: "Osama"
@@ -72,7 +72,7 @@
   thumbnailUrl: OsamaBash.jpg
   rockstar: false
   social: 
-    - {name: "site", link: "https://www.facebook.com/basha.usama"}
+    - {name: "websites", link: "https://www.facebook.com/basha.usama"}
 - 
   id: 10
   name: "Sultan"
