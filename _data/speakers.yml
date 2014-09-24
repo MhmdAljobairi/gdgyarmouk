@@ -23,33 +23,31 @@
   thumbnailUrl: RamiAlKarmi.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "twitter", link: "https://twitter.com/alkarmi"}
+    - {name: "site", link: "ramialkarmi.com"}
 - 
   id: 5
   name: "Ahmad"
   surname: "Alhuwwari"
-  company: "YAAP"
+  company: "UX Wave"
   title: "UX/Product Manager & Consultant"
   bio: "Ahmad is a UX Consultant/Manager. That is a fancy way of saying he plans how to present the things you see on your computer screen, so that they are easy  to understand, engaging and compelling. Things like the navigation, forms, categories and words on intranets, websites, web applications and business systems. He has been doing this professionally since 2006; also, he is a regular speaker at UX events."
   thumbnailUrl: AhmadMAlhuwwari.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "twitter", link: "https://twitter.com/huwwary"}
+    - {name: "site", link: "http://www.huwwary.ws"}
 - 
   id: 7
   name: "Khaled"
   surname: "Sultan"
   company: "Genie9"
   title: "Android Developer"
-  bio: "Khaled, Android enthusiast, proud PSUT alumnus, avid runner, constant traveler, and a Jordanian who actually cares about the environment. I worked at several startups in Amman where I developed some awesome apps for Android. I'm now an Android engineer at Genie9."
+  bio: "Khaled started Android development three years ago and has came a long way ever since. He worked with various startups in Jordan where he developed high-end applications that suit their business needs. He is definitely an Android and technology enthusiast and has passion and commitment for what he does. He is currently an Android developer at Genie9 where he is working on the GCloud app, largely considered one of the best back up apps on Google Play."
   thumbnailUrl: KhaledSultan.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "site", link: "https://www.facebook.com/Genie9Backup"}
 - 
   id: 8
   name: "Raed"
@@ -62,8 +60,8 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://google.com/+RaedMarji"}
+    - {name: "site", link: "http://www.jogeeks.com/"}
 - 
   id: 9
   name: "Osama"
@@ -74,8 +72,7 @@
   thumbnailUrl: OsamaBash.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "site", link: "https://www.facebook.com/basha.usama"}
 - 
   id: 10
   name: "Sultan"
@@ -86,8 +83,7 @@
   thumbnailUrl: sultan.jpeg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "linkedin", link: "jo.linkedin.com/in/sultangfx/"}
+    - {name: "linkedin", link: "jo.linkedin.com/in/sultangfx"}
     - {name: "twitter", link: "https://twitter.com/sultan0254 "}
 - 
   id: 11
@@ -99,5 +95,4 @@
   thumbnailUrl: husaam.jpg
   rockstar: false
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/hammo"}
